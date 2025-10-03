@@ -35,7 +35,7 @@ You can also add custom configurations:
 ```js
 const fastify = require('fastify')({ logger: true })
 
-await fastify.register(require('fastify-statistics'), {
+await fastify.register(require('fastify-robots'), {
   // Path to your custom robots.txt file
   filepath: './robots.txt',
 
