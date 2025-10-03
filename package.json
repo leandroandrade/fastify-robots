@@ -1,6 +1,6 @@
 {
   "name": "fastify-robots",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A lightweight Fastify plugin that provides a robots.txt content.",
   "main": "index.js",
   "scripts": {
